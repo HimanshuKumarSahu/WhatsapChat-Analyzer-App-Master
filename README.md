@@ -8,7 +8,7 @@
 
 ![App demo](https://github.com/judeleonard/WhatsapChat-Analyzer-App/blob/master/Demo/ezgif.com-video-to-gif.gif)
 Users can also view the app in dark mode by going to settings to select their preferred theme of choice. 
-* [LINKEDIN](https://www.linkedin.com/Himanshuks0110)
+* [LINKEDIN](https://www.linkedin.com/in/himanshuks0110/)
 
 ## ✅ Goal
 This App analyzes WhatsApp group chat messages or individual chat, and obviously anyone with a WhatsApp account
